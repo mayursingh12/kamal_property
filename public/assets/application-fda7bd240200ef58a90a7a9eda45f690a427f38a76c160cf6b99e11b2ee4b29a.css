@@ -4415,35 +4415,35 @@ span.badge-dark,
     opacity: 1;
 }
 
-.social_amazon {background: url(img/icons/social/amazon.png) no-repeat;}
-.social_behance {background: url(img/icons/social/behance.png) no-repeat;}
-.social_blogger {background: url(img/icons/social/blogger.png) no-repeat;}
-.social_deviantart {background: url(img/icons/social/deviantart.png) no-repeat;}
-.social_dribbble {background: url(img/icons/social/dribbble.png) no-repeat;}
-.social_dropbox {background: url(img/icons/social/dropbox.png) no-repeat;}
-.social_evernote {background: url(img/icons/social/evernote.png) no-repeat;}
-.social_facebook {background: url(img/icons/social/facebook.png) no-repeat;}
-.social_forrst {background: url(img/icons/social/forrst.png) no-repeat;}
-.social_github {background: url(img/icons/social/github.png) no-repeat;}
-.social_googleplus {background: url(img/icons/social/googleplus.png) no-repeat;}
-.social_jolicloud {background: url(img/icons/social/jolicloud.png) no-repeat;}
-.social_last-fm {background: url(img/icons/social/last-fm.png) no-repeat;}
-.social_linkedin {background: url(img/icons/social/linkedin.png) no-repeat;}
-.social_picasa {background: url(img/icons/social/picasa.png) no-repeat;}
-.social_pintrest {background: url(img/icons/social/pintrest.png) no-repeat;}
-.social_rss {background: url(img/icons/social/rss.png) no-repeat;}
-.social_skype {background: url(img/icons/social/skype.png) no-repeat;}
-.social_spotify {background: url(img/icons/social/spotify.png) no-repeat;}
-.social_stumbleupon {background: url(img/icons/social/stumbleupon.png) no-repeat;}
-.social_tumblr {background: url(img/icons/social/tumblr.png) no-repeat;}
-.social_twitter {background: url(img/icons/social/twitter.png) no-repeat;}
-.social_vimeo {background: url(img/icons/social/vimeo.png) no-repeat;}
-.social_wordpress {background: url(img/icons/social/wordpress.png) no-repeat;}
-.social_xing {background: url(img/icons/social/xing.png) no-repeat;}
-.social_yahoo {background: url(img/icons/social/yahoo.png) no-repeat;}
-.social_youtube {background: url(img/icons/social/youtube.png) no-repeat;}
-.social_vk {background: url(img/icons/social/vk.png) no-repeat;}
-.social_instagram {background: url(img/icons/social/instagram.png) no-repeat;}
+.social_amazon {background: url(assets/img/icons/social/amazon.png) no-repeat;}
+.social_behance {background: url(assets/img/icons/social/behance.png) no-repeat;}
+.social_blogger {background: url(assets/img/icons/social/blogger.png) no-repeat;}
+.social_deviantart {background: url(assets/img/icons/social/deviantart.png) no-repeat;}
+.social_dribbble {background: url(assets/assets/img/icons/social/dribbble.png) no-repeat;}
+.social_dropbox {background: url(assets/img/icons/social/dropbox.png) no-repeat;}
+.social_evernote {background: url(assets/img/icons/social/evernote.png) no-repeat;}
+.social_facebook {background: url(assets/img/icons/social/facebook.png) no-repeat;}
+.social_forrst {background: url(assets/img/icons/social/forrst.png) no-repeat;}
+.social_github {background: url(assets/img/icons/social/github.png) no-repeat;}
+.social_googleplus {background: url(assets/img/icons/social/googleplus.png) no-repeat;}
+.social_jolicloud {background: url(assets/img/icons/social/jolicloud.png) no-repeat;}
+.social_last-fm {background: url(assets/img/icons/social/last-fm.png) no-repeat;}
+.social_linkedin {background: url(assets/img/icons/social/linkedin.png) no-repeat;}
+.social_picasa {background: url(assets/img/icons/social/picasa.png) no-repeat;}
+.social_pintrest {background: url(assets/img/icons/social/pintrest.png) no-repeat;}
+.social_rss {background: url(assets/img/icons/social/rss.png) no-repeat;}
+.social_skype {background: url(assets/img/icons/social/skype.png) no-repeat;}
+.social_spotify {background: url(assets/img/icons/social/spotify.png) no-repeat;}
+.social_stumbleupon {background: url(assets/img/icons/social/stumbleupon.png) no-repeat;}
+.social_tumblr {background: url(assets/img/icons/social/tumblr.png) no-repeat;}
+.social_twitter {background: url(assets/img/icons/social/twitter.png) no-repeat;}
+.social_vimeo {background: url(assets/img/icons/social/vimeo.png) no-repeat;}
+.social_wordpress {background: url(assets/img/icons/social/wordpress.png) no-repeat;}
+.social_xing {background: url(assets/img/icons/social/xing.png) no-repeat;}
+.social_yahoo {background: url(assets/img/icons/social/yahoo.png) no-repeat;}
+.social_youtube {background: url(assets/img/icons/social/youtube.png) no-repeat;}
+.social_vk {background: url(assets/img/icons/social/vk.png) no-repeat;}
+.social_instagram {background: url(assets/img/icons/social/instagram.png) no-repeat;}
 
 /*Font Awesome Icon Styles*/
 i.icon-custom {
@@ -9926,7 +9926,7 @@ img.img-center,
     width: 30px;
     height: 30px;
     padding: 8px;
-    font-style: 14px;
+    font-size: 14px;
     background: #fff;
     text-align: center;
     display: inline-block;
@@ -9947,7 +9947,7 @@ img.img-center,
 .contacts-section {
     color: #fff;
     position: relative;
-    background: #333 url(../../img/bg/3.jpg) center fixed;
+    background: #333 url(img/bg/3.jpg) center fixed;
     background-size: cover;
 }
 
@@ -9968,7 +9968,7 @@ img.img-center,
     height: 100%;
     content: " ";
     position: absolute;
-    background: url(../../img/patterns/gridtile.png) repeat;
+    background: url(img/patterns/gridtile.png) repeat;
 }
 
 /*Contacts Title*/
@@ -10215,7 +10215,7 @@ img.img-center,
 
 /*Background Opacity*/
 .ie8 .service-block-v2 .service-block-in {
-    background: url(../img/transparent/white.png) repeat;
+    background: url(img/transparent/white.png) repeat;
 }
 
 .ie8 .job-img .job-banner,
@@ -10225,7 +10225,7 @@ img.img-center,
 .ie8 .search-block:before,
 .ie8 .parallax-counter .counters,
 .ie8 .carousel-v1 .carousel-caption {
-    background: url(../img/transparent/black.png) repeat;
+    background: url(img/transparent/black.png) repeat;
 }
 @font-face {
     font-family: 'Simple-Line-Icons';
@@ -10811,7 +10811,7 @@ you can use the generic selector below, but it's slower:
 
 /* mouse grab icon */
 .grabbing {
-    cursor:url(grabbing.png) 8 8, move;
+    cursor:url(img/grabbing.png) 8 8, move;
 }
 
 /* fix */
@@ -11816,7 +11816,7 @@ you can use the generic selector below, but it's slower:
     padding: 100px 0;
     position: relative;
     text-align: center;
-    background: #333 url(../img/bg/19.jpg) 50% 0 fixed;
+    background: #333 url(img/bg/19.jpg) 50% 0 fixed;
     background-size: cover;
     background-position: center center;
 }
@@ -11838,7 +11838,7 @@ you can use the generic selector below, but it's slower:
     height: 100%;
     content: " ";
     position: absolute;
-    background: url(../img/patterns/gridtile.png) repeat;
+    background: url(img/patterns/gridtile.png) repeat;
 }
 
 .parallax-twitter-in {
@@ -11887,7 +11887,7 @@ you can use the generic selector below, but it's slower:
 .clients-section {
     padding: 60px 0;
     position: relative;
-    background: #333 url(../img/bg/7.jpg) 50% fixed;
+    background: #333 url(img/bg/7.jpg) 50% fixed;
     background-size: cover;
     background-position: center center;
 }
@@ -11909,7 +11909,7 @@ you can use the generic selector below, but it's slower:
     height: 100%;
     content: " ";
     position: absolute;
-    background: url(../img/patterns/gridtile.png) repeat;
+    background: url(img/patterns/gridtile.png) repeat;
 }
 
 .clients-section .title-v1 p,
@@ -12405,10 +12405,10 @@ website:   	http://www.themepunch.com
 .button				{	padding:6px 13px 5px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; height:30px;
 						cursor:pointer;
 						color:#fff !important; text-shadow:0px 1px 1px rgba(0, 0, 0, 0.6) !important; font-size:15px; line-height:45px !important;
-						background:url(../images/gradient/g30.png) repeat-x top; font-family: arial, sans-serif; font-weight: bold; letter-spacing: -1px;
+						background:url(img/gradient/g30.png) repeat-x top; font-family: arial, sans-serif; font-weight: bold; letter-spacing: -1px;
 					}
 
-.button.big			{	color:#fff; text-shadow:0px 1px 1px rgba(0, 0, 0, 0.6); font-weight:bold; padding:9px 20px; font-size:19px;  line-height:57px !important; background:url(../images/gradient/g40.png) repeat-x top;}
+.button.big			{	color:#fff; text-shadow:0px 1px 1px rgba(0, 0, 0, 0.6); font-weight:bold; padding:9px 20px; font-size:19px;  line-height:57px !important; background:url(img/gradient/g40.png) repeat-x top;}
 
 
 .purchase:hover,
@@ -12514,9 +12514,9 @@ website:   	http://www.themepunch.com
         -o-user-select: none;
 	}
 
-.tp-bannershadow.tp-shadow1 {	background:url(../assets/shadow1.png) no-repeat; background-size:100%; width:890px; height:60px; bottom:-60px;}
-.tp-bannershadow.tp-shadow2 {	background:url(../assets/shadow2.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
-.tp-bannershadow.tp-shadow3 {	background:url(../assets/shadow3.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
+.tp-bannershadow.tp-shadow1 {	background:url(img/re-plugin/shadow1.png) no-repeat; background-size:100%; width:890px; height:60px; bottom:-60px;}
+.tp-bannershadow.tp-shadow2 {	background:url(img/re-plugin/shadow2.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
+.tp-bannershadow.tp-shadow3 {	background:url(img/re-plugin/shadow3.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
 
 
 /********************************
@@ -12552,30 +12552,30 @@ website:   	http://www.themepunch.com
 											}
 
 
-.tp-bullets.simplebullets.navbar						{ 	border:1px solid #666; border-bottom:1px solid #444; background:url(../assets/boxed_bgtile.png); height:40px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
+.tp-bullets.simplebullets.navbar						{ 	border:1px solid #666; border-bottom:1px solid #444; background:url(img/re-plugin/boxed_bgtile.png); height:40px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
 
-.tp-bullets.simplebullets.navbar-old					{ 	 background:url(../assets/navigdots_bgtile.png); height:35px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
+.tp-bullets.simplebullets.navbar-old					{ 	 background:url(img/re-plugin/navigdots_bgtile.png); height:35px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
 
 
-.tp-bullets.simplebullets.round .bullet					{	cursor:pointer; position:relative;	background:url(../assets/bullet.png) no-Repeat top left;	width:20px;	height:20px;  margin-right:0px; float:left; margin-top:2px; margin-left:3px;}
+.tp-bullets.simplebullets.round .bullet					{	cursor:pointer; position:relative;	background:url(img/re-plugin/bullet.png) no-Repeat top left;	width:20px;	height:20px;  margin-right:0px; float:left; margin-top:2px; margin-left:3px;}
 .tp-bullets.simplebullets.round .bullet.last			{	margin-right:3px;}
 
-.tp-bullets.simplebullets.round-old .bullet				{	cursor:pointer; position:relative;	background:url(../assets/bullets.png) no-Repeat bottom left;	width:23px;	height:23px;  margin-right:0px; float:left; margin-top:0px;}
+.tp-bullets.simplebullets.round-old .bullet				{	cursor:pointer; position:relative;	background:url(img/re-plugin/bullets.png) no-Repeat bottom left;	width:23px;	height:23px;  margin-right:0px; float:left; margin-top:0px;}
 .tp-bullets.simplebullets.round-old .bullet.last		{	margin-right:0px;}
 
 
 /**	SQUARE BULLETS **/
-.tp-bullets.simplebullets.square .bullet				{	cursor:pointer; position:relative;	background:url(../assets/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
+.tp-bullets.simplebullets.square .bullet				{	cursor:pointer; position:relative;	background:url(img/re-plugin/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
 .tp-bullets.simplebullets.square .bullet.last			{	margin-right:0px;}
 
 
 /**	SQUARE BULLETS **/
-.tp-bullets.simplebullets.square-old .bullet			{	cursor:pointer; position:relative;	background:url(../assets/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
+.tp-bullets.simplebullets.square-old .bullet			{	cursor:pointer; position:relative;	background:url(img/re-plugin/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
 .tp-bullets.simplebullets.square-old .bullet.last		{	margin-right:0px;}
 
 
 /** navbar NAVIGATION VERSION **/
-.tp-bullets.simplebullets.navbar .bullet			{	cursor:pointer; position:relative;	background:url(../assets/bullet_boxed.png) no-Repeat top left;	width:18px;	height:19px;   margin-right:5px; float:left; margin-top:10px;}
+.tp-bullets.simplebullets.navbar .bullet			{	cursor:pointer; position:relative;	background:url(img/re-plugin/bullet_boxed.png) no-Repeat top left;	width:18px;	height:19px;   margin-right:5px; float:left; margin-top:10px;}
 
 .tp-bullets.simplebullets.navbar .bullet.first		{	margin-left:0px !important;}
 .tp-bullets.simplebullets.navbar .bullet.last		{	margin-right:0px !important;}
@@ -12583,7 +12583,7 @@ website:   	http://www.themepunch.com
 
 
 /** navbar NAVIGATION VERSION **/
-.tp-bullets.simplebullets.navbar-old .bullet			{	cursor:pointer; position:relative;	background:url(../assets/navigdots.png) no-Repeat bottom left;	width:15px;	height:15px;  margin-left:5px !important; margin-right:5px !important;float:left; margin-top:10px;}
+.tp-bullets.simplebullets.navbar-old .bullet			{	cursor:pointer; position:relative;	background:url(img/re-plugin/navigdots.png) no-Repeat bottom left;	width:15px;	height:15px;  margin-left:5px !important; margin-right:5px !important;float:left; margin-top:10px;}
 .tp-bullets.simplebullets.navbar-old .bullet.first		{	margin-left:0px !important;}
 .tp-bullets.simplebullets.navbar-old .bullet.last		{	margin-right:0px !important;}
 
@@ -12614,40 +12614,40 @@ website:   	http://www.themepunch.com
 															-khtml-opacity: 0;
 															opacity: 0;
 														}
-.tp-leftarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat top left;	width:40px;	height:40px;   }
-.tp-rightarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat top left;	width:40px;	height:40px;   }
+.tp-leftarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/large_left.png) no-Repeat top left;	width:40px;	height:40px;   }
+.tp-rightarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/large_right.png) no-Repeat top left;	width:40px;	height:40px;   }
 
 
-.tp-leftarrow.round										{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_left.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left; margin-top:0px;	}
-.tp-rightarrow.round									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_right.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left;	margin-top:0px;}
+.tp-leftarrow.round										{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/small_left.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left; margin-top:0px;	}
+.tp-rightarrow.round									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/small_right.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left;	margin-top:0px;}
 
 
-.tp-leftarrow.round-old									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left; margin-top:0px;	}
-.tp-rightarrow.round-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left;	margin-top:0px;}
+.tp-leftarrow.round-old									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrow_left.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left; margin-top:0px;	}
+.tp-rightarrow.round-old								{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrow_right.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left;	margin-top:0px;}
 
 
-.tp-leftarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_left_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-right:6px; margin-top:12px;}
-.tp-rightarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_right_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-left:6px; margin-top:12px;}
+.tp-leftarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/small_left_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-right:6px; margin-top:12px;}
+.tp-rightarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/small_right_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-left:6px; margin-top:12px;}
 
 
-.tp-leftarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrowleft.png) no-Repeat top left;		width:9px;	height:16px;   float:left;	margin-right:6px; margin-top:10px;}
-.tp-rightarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrowright.png) no-Repeat top left;	width:9px;	height:16px;   float:left;	margin-left:6px; margin-top:10px;}
+.tp-leftarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrowleft.png) no-Repeat top left;		width:9px;	height:16px;   float:left;	margin-right:6px; margin-top:10px;}
+.tp-rightarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrowright.png) no-Repeat top left;	width:9px;	height:16px;   float:left;	margin-left:6px; margin-top:10px;}
 
 .tp-leftarrow.navbar-old.thumbswitharrow				{	margin-right:10px; }
 .tp-rightarrow.navbar-old.thumbswitharrow				{	margin-left:0px; }
 
-.tp-leftarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
-.tp-rightarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
+.tp-leftarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
+.tp-rightarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
 
 
-.tp-leftarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
-.tp-rightarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
+.tp-leftarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
+.tp-rightarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
 
 
-.tp-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat 0 0;	width:40px;	height:40px;
+.tp-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/large_left.png) no-Repeat 0 0;	width:40px;	height:40px;
 
 														}
-.tp-rightarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat 0 0;	width:40px;	height:40px;
+.tp-rightarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(img/re-plugin/large_right.png) no-Repeat 0 0;	width:40px;	height:40px;
 
 														}
 
@@ -12712,7 +12712,7 @@ website:   	http://www.themepunch.com
 /************************************
 		-	TP BANNER TIMER		-
 *************************************/
-.tp-bannertimer								{	width:100%; height:10px; background:url(../assets/timer.png);position:absolute; z-index:200;top:0px;}
+.tp-bannertimer								{	width:100%; height:10px; background:url(img/re-plugin/timer.png);position:absolute; z-index:200;top:0px;}
 .tp-bannertimer.tp-bottom					{	bottom:0px;height:5px; top:auto;}
 
 
@@ -12775,9 +12775,9 @@ website:   	http://www.themepunch.com
 }
 /*  CAPTION SLIDELINK   **/
 .caption.slidelink a div,
-.tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url(../assets/coloredbg.png) repeat;}
+.tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url(img/re-plugin/coloredbg.png) repeat;}
 
-.tp-loader 	{	background:url(../assets/loader.gif) no-repeat 10px 10px; background-color:#fff;  margin:-22px -22px; top:50%; left:50%; z-index:10000; position:absolute;width:44px;height:44px;
+.tp-loader 	{	background:url(img/re-plugin/loader.gif) no-repeat 10px 10px; background-color:#fff;  margin:-22px -22px; top:50%; left:50%; z-index:10000; position:absolute;width:44px;height:44px;
 				border-radius: 3px;
 				-moz-border-radius: 3px;
 				-webkit-border-radius: 3px;
@@ -16014,7 +16014,7 @@ ul.blog-tags a:hover i {
 
 .slider-promo-info-bg {
     padding: 25px 20px 20px;
-    background: url(../img/bg-black.png) repeat;
+    background: url(img/bg-black.png) repeat;
 }
 
 .slider-promo-info span.big-size {
