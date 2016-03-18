@@ -275,8 +275,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     }
 
     100% {
-        -webkit-transform: scale(1) rotate(0);
-        transform: scale(1) rotate(0);
+        -webkit-transform: scale(1) rotate(0deg);
+        transform: scale(1) rotate(0deg);
     }
 }
 
@@ -306,9 +306,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     }
 
     100% {
-        -webkit-transform: scale(1) rotate(0);
-        -ms-transform: scale(1) rotate(0);
-        transform: scale(1) rotate(0);
+        -webkit-transform: scale(1) rotate(0deg);
+        -ms-transform: scale(1) rotate(0deg);
+        transform: scale(1) rotate(0deg);
     }
 }
 
@@ -1543,8 +1543,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 @-webkit-keyframes flip {
     0% {
-        -webkit-transform: perspective(400px) translateZ(0) rotateY(0) scale(1);
-        transform: perspective(400px) translateZ(0) rotateY(0) scale(1);
+        -webkit-transform: perspective(400px) translateZ(0) rotateY(0deg) scale(1);
+        transform: perspective(400px) translateZ(0) rotateY(0deg) scale(1);
         -webkit-animation-timing-function: ease-out;
         animation-timing-function: ease-out;
     }
@@ -1580,9 +1580,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 @keyframes flip {
     0% {
-        -webkit-transform: perspective(400px) translateZ(0) rotateY(0) scale(1);
-        -ms-transform: perspective(400px) translateZ(0) rotateY(0) scale(1);
-        transform: perspective(400px) translateZ(0) rotateY(0) scale(1);
+        -webkit-transform: perspective(400px) translateZ(0) rotateY(0deg) scale(1);
+        -ms-transform: perspective(400px) translateZ(0) rotateY(0deg) scale(1);
+        transform: perspective(400px) translateZ(0) rotateY(0deg) scale(1);
         -webkit-animation-timing-function: ease-out;
         animation-timing-function: ease-out;
     }
@@ -1936,8 +1936,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     100% {
         -webkit-transform-origin: center center;
         transform-origin: center center;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -1957,9 +1957,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: center center;
         -ms-transform-origin: center center;
         transform-origin: center center;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -1981,8 +1981,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     100% {
         -webkit-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2002,9 +2002,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: left bottom;
         -ms-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2026,8 +2026,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     100% {
         -webkit-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2047,9 +2047,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: right bottom;
         -ms-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2071,8 +2071,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     100% {
         -webkit-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2092,9 +2092,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: left bottom;
         -ms-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2116,8 +2116,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     100% {
         -webkit-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2137,9 +2137,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: right bottom;
         -ms-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 }
@@ -2153,8 +2153,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     0% {
         -webkit-transform-origin: center center;
         transform-origin: center center;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2172,9 +2172,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: center center;
         -ms-transform-origin: center center;
         transform-origin: center center;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2198,8 +2198,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     0% {
         -webkit-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2217,9 +2217,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: left bottom;
         -ms-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2243,8 +2243,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     0% {
         -webkit-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2262,9 +2262,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: right bottom;
         -ms-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2288,8 +2288,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     0% {
         -webkit-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2307,9 +2307,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: left bottom;
         -ms-transform-origin: left bottom;
         transform-origin: left bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2333,8 +2333,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     0% {
         -webkit-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2352,9 +2352,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         -webkit-transform-origin: right bottom;
         -ms-transform-origin: right bottom;
         transform-origin: right bottom;
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         opacity: 1;
     }
 
@@ -2574,8 +2574,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 @-webkit-keyframes hinge {
     0% {
-        -webkit-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
         -webkit-transform-origin: top left;
         transform-origin: top left;
         -webkit-animation-timing-function: ease-in-out;
@@ -2619,9 +2619,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 @keyframes hinge {
     0% {
-        -webkit-transform: rotate(0);
-        -ms-transform: rotate(0);
-        transform: rotate(0);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         -webkit-transform-origin: top left;
         -ms-transform-origin: top left;
         transform-origin: top left;
@@ -4415,35 +4415,35 @@ span.badge-dark,
     opacity: 1;
 }
 
-.social_amazon {background: url(../img/icons/social/amazon.png) no-repeat;}
-.social_behance {background: url(../img/icons/social/behance.png) no-repeat;}
-.social_blogger {background: url(../img/icons/social/blogger.png) no-repeat;}
-.social_deviantart {background: url(../img/icons/social/deviantart.png) no-repeat;}
-.social_dribbble {background: url(../img/icons/social/dribbble.png) no-repeat;}
-.social_dropbox {background: url(../img/icons/social/dropbox.png) no-repeat;}
-.social_evernote {background: url(../img/icons/social/evernote.png) no-repeat;}
-.social_facebook {background: url(../img/icons/social/facebook.png) no-repeat;}
-.social_forrst {background: url(../img/icons/social/forrst.png) no-repeat;}
-.social_github {background: url(../img/icons/social/github.png) no-repeat;}
-.social_googleplus {background: url(../img/icons/social/googleplus.png) no-repeat;}
-.social_jolicloud {background: url(../img/icons/social/jolicloud.png) no-repeat;}
-.social_last-fm {background: url(../img/icons/social/last-fm.png) no-repeat;}
-.social_linkedin {background: url(../img/icons/social/linkedin.png) no-repeat;}
-.social_picasa {background: url(../img/icons/social/picasa.png) no-repeat;}
-.social_pintrest {background: url(../img/icons/social/pintrest.png) no-repeat;}
-.social_rss {background: url(../img/icons/social/rss.png) no-repeat;}
-.social_skype {background: url(../img/icons/social/skype.png) no-repeat;}
-.social_spotify {background: url(../img/icons/social/spotify.png) no-repeat;}
-.social_stumbleupon {background: url(../img/icons/social/stumbleupon.png) no-repeat;}
-.social_tumblr {background: url(../img/icons/social/tumblr.png) no-repeat;}
-.social_twitter {background: url(../img/icons/social/twitter.png) no-repeat;}
-.social_vimeo {background: url(../img/icons/social/vimeo.png) no-repeat;}
-.social_wordpress {background: url(../img/icons/social/wordpress.png) no-repeat;}
-.social_xing {background: url(../img/icons/social/xing.png) no-repeat;}
-.social_yahoo {background: url(../img/icons/social/yahoo.png) no-repeat;}
-.social_youtube {background: url(../img/icons/social/youtube.png) no-repeat;}
-.social_vk {background: url(../img/icons/social/vk.png) no-repeat;}
-.social_instagram {background: url(../img/icons/social/instagram.png) no-repeat;}
+.social_amazon {background: url(img/icons/social/amazon.png) no-repeat;}
+.social_behance {background: url(img/icons/social/behance.png) no-repeat;}
+.social_blogger {background: url(img/icons/social/blogger.png) no-repeat;}
+.social_deviantart {background: url(img/icons/social/deviantart.png) no-repeat;}
+.social_dribbble {background: url(img/icons/social/dribbble.png) no-repeat;}
+.social_dropbox {background: url(img/icons/social/dropbox.png) no-repeat;}
+.social_evernote {background: url(img/icons/social/evernote.png) no-repeat;}
+.social_facebook {background: url(img/icons/social/facebook.png) no-repeat;}
+.social_forrst {background: url(img/icons/social/forrst.png) no-repeat;}
+.social_github {background: url(img/icons/social/github.png) no-repeat;}
+.social_googleplus {background: url(img/icons/social/googleplus.png) no-repeat;}
+.social_jolicloud {background: url(img/icons/social/jolicloud.png) no-repeat;}
+.social_last-fm {background: url(img/icons/social/last-fm.png) no-repeat;}
+.social_linkedin {background: url(img/icons/social/linkedin.png) no-repeat;}
+.social_picasa {background: url(img/icons/social/picasa.png) no-repeat;}
+.social_pintrest {background: url(img/icons/social/pintrest.png) no-repeat;}
+.social_rss {background: url(img/icons/social/rss.png) no-repeat;}
+.social_skype {background: url(img/icons/social/skype.png) no-repeat;}
+.social_spotify {background: url(img/icons/social/spotify.png) no-repeat;}
+.social_stumbleupon {background: url(img/icons/social/stumbleupon.png) no-repeat;}
+.social_tumblr {background: url(img/icons/social/tumblr.png) no-repeat;}
+.social_twitter {background: url(img/icons/social/twitter.png) no-repeat;}
+.social_vimeo {background: url(img/icons/social/vimeo.png) no-repeat;}
+.social_wordpress {background: url(img/icons/social/wordpress.png) no-repeat;}
+.social_xing {background: url(img/icons/social/xing.png) no-repeat;}
+.social_yahoo {background: url(img/icons/social/yahoo.png) no-repeat;}
+.social_youtube {background: url(img/icons/social/youtube.png) no-repeat;}
+.social_vk {background: url(img/icons/social/vk.png) no-repeat;}
+.social_instagram {background: url(img/icons/social/instagram.png) no-repeat;}
 
 /*Font Awesome Icon Styles*/
 i.icon-custom {
@@ -6362,7 +6362,7 @@ img.img-center,
     overflow: hidden;
     padding: 10px 0 6px;
     border-bottom: solid 1px #eee;
-    background: url(../img/patterns/breadcrumbs.png) repeat;
+    background: url(/img/patterns/breadcrumbs.png) repeat;
 }
 
 .breadcrumbs h1 {
@@ -6463,7 +6463,7 @@ img.img-center,
 .breadcrumbs-v1 {
     padding: 100px 0;
     position: relative;
-    background: url(../img/breadcrumbs/img1.jpg) center no-repeat;
+    background: url(img/breadcrumbs/img1.jpg) center no-repeat;
     background-size: cover; /*Scales the background image to be as large as possible*/
 }
 
@@ -6514,7 +6514,7 @@ img.img-center,
 .breadcrumbs-v2 {
     text-align: center;
     position: relative;
-    background: url(../img/bg/11.jpg) no-repeat center;
+    background: url(img/bg/11.jpg) no-repeat center;
 }
 
 .breadcrumbs-v2-in {
@@ -6554,19 +6554,19 @@ img.img-center,
 }
 
 .breadcrumbs-v3.img-v1 {
-    background: url(../img/breadcrumbs/img1.jpg) no-repeat;
+    background: url(img/breadcrumbs/img1.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .breadcrumbs-v3.img-v2 {
-    background: url(../img/breadcrumbs/img2.jpg) no-repeat;
+    background: url(img/breadcrumbs/img2.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .breadcrumbs-v3.img-v3 {
-    background: url(../img/breadcrumbs/img3.jpg) no-repeat;
+    background: url(img/breadcrumbs/img3.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -7813,7 +7813,7 @@ img.img-center,
 .call-action-v2 {
     padding: 50px 0;
     text-align: center;
-    background: url(../img/patterns/16.png);
+    background: url(img/patterns/16.png);
 }
 
 .call-action-v2 h2 {
@@ -8167,7 +8167,7 @@ img.img-center,
     height: auto;
     padding: 50px 0;
     position: relative;
-    background: url(../img/bg/11.jpg) repeat fixed;
+    background: url(img/bg/11.jpg) repeat fixed;
 }
 
 .bg-image-v1:before {
@@ -8187,7 +8187,7 @@ img.img-center,
     height: auto;
     padding: 50px 0;
     position: relative;
-    background: url(../img/bg/7.jpg) repeat fixed;
+    background: url(img/bg/7.jpg) repeat fixed;
 }
 
 .bg-image-v2:before {
@@ -8223,7 +8223,7 @@ img.img-center,
     padding: 100px 0;
     position: relative;
     text-align: center;
-    background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
+    background: url(img/team/faces.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-quote:after {
@@ -8243,7 +8243,7 @@ img.img-center,
     height: 100%;
     content: " ";
     position: absolute;
-    background: url(../img/patterns/gridtile.png) repeat;
+    background: url(img/patterns/gridtile.png) repeat;
 }
 
 /*Parallax Quote Inner*/
@@ -8330,7 +8330,7 @@ img.img-center,
 /*Parallax Team
 ------------------------------------*/
 .parallax-team {
-    background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
+    background: url(img/team/faces.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
@@ -8351,7 +8351,7 @@ img.img-center,
 
 /*Parallax Team*/
 .parallax-team {
-    background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
+    background: url(img/team/faces.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
@@ -8366,14 +8366,14 @@ img.img-center,
 /*Parallax Counter
 ------------------------------------*/
 .parallax-bg {
-    background: url(../img/patterns/5.png) repeat fixed;
+    background: url(img/patterns/5.png) repeat fixed;
 }
 
 /*Parallax Counter
 ------------------------------------*/
 .parallax-counter {
     padding: 30px 0;
-    background: url(../img/patterns/5.png) repeat fixed;
+    background: url(img/patterns/5.png) repeat fixed;
 }
 
 .parallax-counter .counters {
@@ -8395,7 +8395,7 @@ img.img-center,
 ------------------------------------*/
 .parallax-counter-v1 {
     padding: 60px 0;
-    background: url(../img/patterns/5.png) repeat fixed;
+    background: url(img/patterns/5.png) repeat fixed;
 }
 
 .parallax-counter-v1 .counters {
@@ -8420,7 +8420,7 @@ img.img-center,
 .parallax-counter-v2 {
     position: relative;
     padding: 80px 0 60px;
-    background: url(../img/patterns/16.png) repeat fixed;
+    background: url(img/patterns/16.png) repeat fixed;
 }
 
 .parallax-counter-v2:after {
@@ -8481,7 +8481,7 @@ img.img-center,
     overflow: hidden;
     text-align: center;
     position: relative;
-    background: url(../img/bg/25.jpg) 50% 0 fixed;
+    background: url(img/bg/25.jpg) 50% 0 fixed;
 }
 
 .parallax-counter-v3:after {
@@ -8564,7 +8564,7 @@ img.img-center,
     overflow: hidden;
     text-align: center;
     position: relative;
-    background: url(../img/bg/19.jpg) 50% 0 fixed;
+    background: url(img/bg/19.jpg) 50% 0 fixed;
 }
 
 .parallax-counter-v4:after {
@@ -8604,7 +8604,7 @@ img.img-center,
 ------------------------------------*/
 .flat-bg-block-v1 {
     padding: 40px 0;
-    background: url(../img/patterns/16.png) repeat;
+    background: url(img/patterns/16.png) repeat;
 }
 
 .flat-bg-block-v1 .checked-list.first-child {
@@ -9024,7 +9024,7 @@ img.img-center,
 .quote-v1 {
     padding: 60px 0;
     text-align: center;
-    background: url(../img/patterns/5.png) repeat;
+    background: url(img/patterns/5.png) repeat;
 }
 
 .quote-v1 p {
@@ -9182,19 +9182,19 @@ img.img-center,
 }
 
 .interactive-slider-v1.img-v1 {
-    background: url(../img/bg/18.jpg) no-repeat;
+    background: url(img/bg/18.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .interactive-slider-v1.img-v2 {
-    background: url(../img/bg/19.jpg) no-repeat;
+    background: url(img/bg/19.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .interactive-slider-v1.img-v3 {
-    background: url(../img/bg/18.jpg) no-repeat;
+    background: url(img/bg/18.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -9241,19 +9241,19 @@ img.img-center,
     padding: 200px 0;
     position: relative;
     text-align: center;
-    background: url(../img/bg/18.jpg) no-repeat;
+    background: url(img/bg/18.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .interactive-slider-v2.img-v1 {
-    background: url(../img/bg/25.jpg) no-repeat;
+    background: url(img/bg/25.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .interactive-slider-v2.img-v2 {
-    background: url(../img/bg/14.jpg) no-repeat;
+    background: url(img/bg/14.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
