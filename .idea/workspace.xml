@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7a3ab25-45c5-438a-8e22-f55a38525f03" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/fonts/Simple-Line-Icons.dev.svg" afterPath="$PROJECT_DIR$/app/assets/font/Simple-Line-Icons.dev.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/fonts/Simple-Line-Icons.eot" afterPath="$PROJECT_DIR$/app/assets/font/Simple-Line-Icons.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/fonts/Simple-Line-Icons.svg" afterPath="$PROJECT_DIR$/app/assets/font/Simple-Line-Icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/fonts/Simple-Line-Icons.ttf" afterPath="$PROJECT_DIR$/app/assets/font/Simple-Line-Icons.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/fonts/Simple-Line-Icons.woff" afterPath="$PROJECT_DIR$/app/assets/font/Simple-Line-Icons.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-fda7bd240200ef58a90a7a9eda45f690a427f38a76c160cf6b99e11b2ee4b29a.css" afterPath="$PROJECT_DIR$/public/assets/application-fda7bd240200ef58a90a7a9eda45f690a427f38a76c160cf6b99e11b2ee4b29a.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/blocks.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/blocks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/vendor/bootstrap.min.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/vendor/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/footer-v7.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/footer-v7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/line-icons.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/line-icons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/plugins.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/plugins.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kamal_property.iws" />
@@ -43,7 +30,18 @@
     <favorites_list name="kamal_property" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33194155">
+              <caret line="1670" column="33" selection-start-line="1670" selection-start-column="33" selection-end-line="1670" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -193,6 +191,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pids" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kamal_property" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kamal_property" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -475,7 +487,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804233" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -483,7 +495,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3068783" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -873,18 +885,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="15.20668">
-          <caret line="1693" column="37" selection-start-line="1693" selection-start-column="37" selection-end-line="1693" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/font/Simple-Line-Icons.dev.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25052193">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33194155">
+          <caret line="1670" column="33" selection-start-line="1670" selection-start-column="33" selection-end-line="1670" selection-end-column="33" />
           <folding />
         </state>
       </provider>
