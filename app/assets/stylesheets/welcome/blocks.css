@@ -1838,7 +1838,7 @@
     height: auto;
     padding: 50px 0;
     position: relative;
-    background: url(img/bg/7.jpg) repeat fixed;
+    background: url(../img/bg/7.jpg) repeat fixed;
 }
 
 .bg-image-v2:before {
@@ -1874,7 +1874,7 @@
     padding: 100px 0;
     position: relative;
     text-align: center;
-    background: url(img/team/faces.jpg) 50% 0 repeat fixed;
+    background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-quote:after {
@@ -1894,7 +1894,7 @@
     height: 100%;
     content: " ";
     position: absolute;
-    background: url(img/patterns/gridtile.png) repeat;
+    background: url(../img/patterns/gridtile.png) repeat;
 }
 
 /*Parallax Quote Inner*/
@@ -1981,7 +1981,7 @@
 /*Parallax Team
 ------------------------------------*/
 .parallax-team {
-    background: url(img/team/faces.jpg) 50% 0 repeat fixed;
+    background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
@@ -2002,7 +2002,7 @@
 
 /*Parallax Team*/
 .parallax-team {
-    background: url(img/team/faces.jpg) 50% 0 repeat fixed;
+    background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
@@ -2017,14 +2017,14 @@
 /*Parallax Counter
 ------------------------------------*/
 .parallax-bg {
-    background: url(img/patterns/5.png) repeat fixed;
+    background: url(../img/patterns/5.png) repeat fixed;
 }
 
 /*Parallax Counter
 ------------------------------------*/
 .parallax-counter {
     padding: 30px 0;
-    background: url(img/patterns/5.png) repeat fixed;
+    background: url(../img/patterns/5.png) repeat fixed;
 }
 
 .parallax-counter .counters {
@@ -2046,7 +2046,7 @@
 ------------------------------------*/
 .parallax-counter-v1 {
     padding: 60px 0;
-    background: url(img/patterns/5.png) repeat fixed;
+    background: url(../img/patterns/5.png) repeat fixed;
 }
 
 .parallax-counter-v1 .counters {
@@ -2071,7 +2071,7 @@
 .parallax-counter-v2 {
     position: relative;
     padding: 80px 0 60px;
-    background: url(img/patterns/16.png) repeat fixed;
+    background: url(../img/patterns/16.png) repeat fixed;
 }
 
 .parallax-counter-v2:after {
@@ -2215,7 +2215,7 @@
     overflow: hidden;
     text-align: center;
     position: relative;
-    background: url(img/bg/19.jpg) 50% 0 fixed;
+    background: url(../img/bg/19.jpg) 50% 0 fixed;
 }
 
 .parallax-counter-v4:after {
@@ -2675,7 +2675,7 @@
 .quote-v1 {
     padding: 60px 0;
     text-align: center;
-    background: url(img/patterns/5.png) repeat;
+    background: url(../img/patterns/5.png) repeat;
 }
 
 .quote-v1 p {
@@ -2839,7 +2839,7 @@
 }
 
 .interactive-slider-v1.img-v2 {
-    background: url(img/bg/19.jpg) no-repeat;
+    background: url(../img/bg/19.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
