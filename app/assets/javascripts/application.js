@@ -13,6 +13,41 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_directory ./vendor
-//= require_directory ./welcome
-//= require_tree .
+//= require vendor/jquery-migrate.min
+//= require vendor/bootstrap.min
+
+//= require welcome/smoothScroll
+//= require vendor/jquery.easing.min
+//= require welcome/pace.min
+//= require welcome/jquery.parallax
+//= require welcome/waypoints.min
+//= require welcome/jquery.counterup.min
+//= require welcome/owl.carousel
+//= require welcome/owl-carousel-2
+
+//= require welcome/jquery.validate.min
+//= require welcome/jquery.themepunch.tools.min
+//= require welcome/jquery.themepunch.revolution.min
+//= require welcome/jquery.cubeportfolio.min
+//= require welcome/one.app
+//= require welcome/login
+//= require welcome/contact
+//= require welcome/pace-loader
+//= require welcome/revolutional-slider
+//= require welcome/cube-portfolio-lightbox
+
+//= require welcome/respond
+//= require welcome/html5shiv
+//= require welcome/placeholder-IE-fixes
+//= require welcome/sky-forms-ie8
+//= require welcome/jquery.placeholder.min
+
+
+
+
+
+
+
+
+
+//owl-carousel/owl.carousel.js
