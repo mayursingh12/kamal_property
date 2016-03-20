@@ -8187,7 +8187,7 @@ img.img-center,
     height: auto;
     padding: 50px 0;
     position: relative;
-    background: url(../img/bg/7.jpg) repeat fixed;
+    background: url(img/bg/7.jpg) repeat fixed;
 }
 
 .bg-image-v2:before {
@@ -8366,14 +8366,14 @@ img.img-center,
 /*Parallax Counter
 ------------------------------------*/
 .parallax-bg {
-    background: url(../img/patterns/5.png) repeat fixed;
+    background: url(img/patterns/5.png) repeat fixed;
 }
 
 /*Parallax Counter
 ------------------------------------*/
 .parallax-counter {
     padding: 30px 0;
-    background: url(../img/patterns/5.png) repeat fixed;
+    background: url(img/patterns/5.png) repeat fixed;
 }
 
 .parallax-counter .counters {
@@ -8395,7 +8395,7 @@ img.img-center,
 ------------------------------------*/
 .parallax-counter-v1 {
     padding: 60px 0;
-    background: url(../img/patterns/5.png) repeat fixed;
+    background: url(img/patterns/5.png) repeat fixed;
 }
 
 .parallax-counter-v1 .counters {
@@ -8564,7 +8564,7 @@ img.img-center,
     overflow: hidden;
     text-align: center;
     position: relative;
-    background: url(../img/bg/19.jpg) 50% 0 fixed;
+    background: url(img/bg/19.jpg) 50% 0 fixed;
 }
 
 .parallax-counter-v4:after {
@@ -9024,7 +9024,7 @@ img.img-center,
 .quote-v1 {
     padding: 60px 0;
     text-align: center;
-    background: url(../img/patterns/5.png) repeat;
+    background: url(img/patterns/5.png) repeat;
 }
 
 .quote-v1 p {
@@ -9188,7 +9188,7 @@ img.img-center,
 }
 
 .interactive-slider-v1.img-v2 {
-    background: url(../img/bg/19.jpg) no-repeat;
+    background: url(img/bg/19.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -9947,7 +9947,7 @@ img.img-center,
 .contacts-section {
     color: #fff;
     position: relative;
-    background: #333 url(../img/bg/3.jpg) center fixed;
+    background: #333 url(img/bg/3.jpg) center fixed;
     background-size: cover;
 }
 
@@ -11816,7 +11816,7 @@ you can use the generic selector below, but it's slower:
     padding: 100px 0;
     position: relative;
     text-align: center;
-    background: #333 url(../img/bg/19.jpg) 50% 0 fixed;
+    background: #333 url(img/bg/19.jpg) 50% 0 fixed;
     background-size: cover;
     background-position: center center;
 }
@@ -11887,7 +11887,7 @@ you can use the generic selector below, but it's slower:
 .clients-section {
     padding: 60px 0;
     position: relative;
-    background: #333 url(../img/bg/7.jpg) 50% fixed;
+    background: #333 url(img/bg/7.jpg) 50% fixed;
     background-size: cover;
     background-position: center center;
 }
