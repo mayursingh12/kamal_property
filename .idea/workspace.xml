@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7a3ab25-45c5-438a-8e22-f55a38525f03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings-ie8.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings-ie8.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css" />
     </list>
     <ignored path="kamal_property.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,11 +31,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1693" column="35" selection-start-line="1693" selection-start-column="35" selection-end-line="1693" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings-ie8.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/settings-ie8.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="737" column="94" selection-start-line="737" selection-start-column="88" selection-end-line="737" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.min.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.33194155">
-              <caret line="1670" column="33" selection-start-line="1670" selection-start-column="33" selection-end-line="1670" selection-end-column="33" />
+              <caret line="1560" column="88" selection-start-line="1560" selection-start-column="88" selection-end-line="1560" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -88,18 +108,18 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/custom-cubeportfolio.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/ie8.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/owl.carousel.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings-ie8.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/style.css" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
         <option value="$PROJECT_DIR$/public/assets/.sprockets-manifest-4da899b0cf51d2a6ac8578bb7ed21652.json" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/welcome/counter.min.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/tmp/pids/server.pid" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/blocks.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/footer-v7.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/plugins.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings-ie8.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css" />
       </list>
     </option>
   </component>
@@ -573,6 +593,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1470" column="0" selection-start-line="1470" selection-start-column="0" selection-end-line="1470" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -667,6 +690,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44924405">
           <caret line="65" column="35" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -690,6 +714,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6177106">
           <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -748,6 +773,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="262.22223">
           <caret line="11" column="24589" selection-start-line="11" selection-start-column="24589" selection-end-line="11" selection-end-column="24589" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -784,6 +810,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="443.33334">
           <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +859,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -841,22 +868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/settings-ie8.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="802" column="42" selection-start-line="802" selection-start-column="42" selection-end-line="802" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2159" column="59" selection-start-line="2159" selection-start-column="59" selection-end-line="2159" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -895,8 +906,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/app.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1693" column="35" selection-start-line="1693" selection-start-column="35" selection-end-line="1693" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/settings-ie8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="737" column="94" selection-start-line="737" selection-start-column="88" selection-end-line="737" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome/settings.min.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33194155">
-          <caret line="1670" column="33" selection-start-line="1670" selection-start-column="33" selection-end-line="1670" selection-end-column="33" />
+          <caret line="1560" column="88" selection-start-line="1560" selection-start-column="88" selection-end-line="1560" selection-end-column="88" />
           <folding />
         </state>
       </provider>
